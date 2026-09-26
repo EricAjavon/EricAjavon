@@ -346,7 +346,7 @@ Working with large-scale agricultural survey data across household, parcel, plot
 - **AI Career Essentials** — ALX
 - **Data Analytics** — Explore AI Academy
 - **Statistical Analysis** — Programming Hub
-- **Fundamentals of ...** — Stanford University short course
+- **Fundamentals of Data Science in Precision Medicine and Cloud Computing** — Stanford University short course
 
 > Certifications and professional learning are continuously expanding alongside practical project work.
 
