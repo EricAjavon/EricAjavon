@@ -2,6 +2,7 @@
 
 <img src="assets/profile-banner.svg" alt="Eric Akwete Ajavon — Data, Analytics, Engineering and Research" width="100%"/>
 
+<!--
 <table>
 <tr>
 <td width="22%" align="center">
@@ -13,7 +14,7 @@
 
 ### Data Specialist | Analytics • Engineering • BI • Statistics • Data Science & Research
 
-I am a multidisciplinary **Data Specialist** with a background in **Statistics** and hands-on experience across the data lifecycle — from data quality, cleaning and transformation to statistical analysis, business intelligence, automation, and reproducible analytical workflows.
+I am a multidisciplinary **Data Specialist** with a background in **Statistics** and hands-on experience across the data lifecycle, from data quality, cleaning and transformation to statistical analysis, business intelligence, automation, and reproducible analytical workflows.
 
 My work combines **data analytics, data engineering, statistical methods, business intelligence, and research** to turn complex datasets into reliable information and actionable insight.
 
@@ -21,10 +22,35 @@ My work combines **data analytics, data engineering, statistical methods, busine
 </tr>
 </table>
 
+-->
+
+# Eric Akwete Ajavon
+
+### Data Specialist | Analytics • Engineering • BI • Statistics • Data Science & Research
+
+I am a multidisciplinary **Data Specialist** with a background in **Statistics** and hands-on experience across the data lifecycle, from data quality, cleaning and transformation to statistical analysis, business intelligence, automation, and reproducible analytical workflows.
+
+My work combines **data analytics, data engineering, statistical methods, business intelligence, and research** to turn complex datasets into reliable information and actionable insight.
+
 <a href="https://www.linkedin.com/in/eric-aajavon">LinkedIn</a> •
 <a href="https://github.com/EricAjavon">GitHub</a> •
 <a href="https://www.datascienceportfol.io/EAA">Portfolio</a> •
 <a href="mailto:ea.ajavon@gmail.com">Email</a>
+
+<!--
+<a href="https://www.linkedin.com/in/eric-aajavon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
+<a href="https://github.com/EricAjavon">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+</a>
+<a href="https://www.datascienceportfol.io/EAA">
+  <img src="https://img.icons8.com/fluency/48/portfolio.png" width="40" height="40" />
+</a>
+<a href="mailto:ea.ajavon@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/new-post.png" width="40" height="40" />
+</a>
+-->
 
 </div>
 
@@ -188,7 +214,8 @@ An end-to-end sales analytics project built from the AdventureWorks dataset.
 - Interactive Power BI reporting
 - Business-oriented dashboard design
 
-<a href="https://github.com/EricAjavon">View project →</a>
+<!-- <a href="https://github.com/EricAjavon">View project →</a> -->
+<a href="https://github.com/EricAjavon/AdventureWorks-Sales-Analytics.git">View project →</a>
 
 </td>
 
