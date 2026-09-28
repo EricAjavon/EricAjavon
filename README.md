@@ -354,20 +354,21 @@ Working with large-scale agricultural survey data across household, parcel, plot
 
 # 📈 GitHub Analytics
 
+[![Eric's GitHub stats](https://github-stats-extended.vercel.app/api?username=EricAjavon&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended) 
+
+<!--
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=EricAjavon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricAjavon&layout=compact&hide_border=true&langs_count=8" />
 
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricAjavon&hide_border=true&area=true" width="95%"/>
 
 </div>
-
+-->
 ---
 
 # 🧩 How I Approach Data
