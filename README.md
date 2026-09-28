@@ -21,10 +21,8 @@ My work combines **data analytics, data engineering, statistical methods, busine
 </td>
 </tr>
 </table>
-
--->
-
 # Eric Akwete Ajavon
+-->
 
 ### Data Specialist | Analytics • Engineering • BI • Statistics • Data Science & Research
 
