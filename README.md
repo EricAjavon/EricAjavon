@@ -354,7 +354,16 @@ Working with large-scale agricultural survey data across household, parcel, plot
 
 # 📈 GitHub Analytics
 
-[![Eric's GitHub stats](https://github-stats-extended.vercel.app/api?username=EricAjavon&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EricAjavon&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=EricAjavon&show_icons=true&include_all_commits=true&theme=darcula)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EricAjavon&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=EricAjavon&langs_count=4&theme=dark_github)
+<!--
+![Eric's GitHub stats](https://github-stats-extended.vercel.app/api?username=EricAjavon&theme_light=light_github&theme_dark=dark_github&show=all_time_contribs)
+
+[![Eric's GitHub stats](https://github-stats-extended.vercel.app/api?username=EricAjavon&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EricAjavon&langs_count=6&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=EricAjavon&langs_count=6&theme=gruvbox)
+ -->
 
 <!--
 <div align="center">
@@ -369,6 +378,7 @@ Working with large-scale agricultural survey data across household, parcel, plot
 
 </div>
 -->
+
 ---
 
 # 🧩 How I Approach Data
